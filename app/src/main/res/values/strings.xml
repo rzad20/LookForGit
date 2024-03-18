@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LookForGit</string>
+    <string name="user_name">nama user</string>
+    <string name="user_city">kota user</string>
+    <string name="user_company">company user</string>
+    <string name="searchbar_hint">Masukkan ID User</string>
+    <string name="detailName">Nama User</string>
+    <string name="detailUserName">Username</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
